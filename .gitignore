@@ -1,0 +1,14 @@
+# File database lokal dan backup
+*.mdf
+*.ldf
+*.ndf
+*.bak
+# Konfigurasi/rahasia lokal
+.env
+.env.*
+*.local.json
+# File sementara editor
+.vs/
+.vscode/
+*.tmp
+*.log
